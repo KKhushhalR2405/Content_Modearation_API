@@ -65,7 +65,7 @@ python server.py
 ```
 -> Check the working of the API by using the webapp
 
--> Open chrome
+-> Open chrome and search
 ```
 localhost:1025
 ```
