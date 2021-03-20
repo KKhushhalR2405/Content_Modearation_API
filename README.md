@@ -47,7 +47,25 @@ python -m venv venv
 ```
 venv\scripts\activate
 ```
--> Install the required libraries usinf requirement.txt file
+-> Install the required libraries using requirement.txt file
 ```
 pip install -r requirements.txt
+```
+-> Run the API file using command prompt
+```
+python app.py
+```
+-> Open cmd again and change the directory
+```
+cd Web-Frontend
+```
+-> Run the server file
+```
+python server.py
+```
+-> Check the working of the API by using the webapp
+
+-> Open chrome
+```
+localhost:1025
 ```
