@@ -35,5 +35,19 @@ For the image data, we are checking for any inappropriate text in the image or w
 ```
 git clone https://github.com/KKhushhalR2405/Content_Modearation_API.git
 ```
--> 
-
+-> Navigate to the working directory
+```
+cd Content_Moderation_API
+```
+-> Create a virtual envirovnment (for windows)
+```
+python -m venv venv
+```
+-> Activate the Virtual Environment (for windows)
+```
+venv\scripts\activate
+```
+-> Install the required libraries usinf requirement.txt file
+```
+pip install -r requirements.txt
+```
