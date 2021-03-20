@@ -30,5 +30,10 @@ For the image data, we are checking for any inappropriate text in the image or w
 7. Additional Libraries: Pandas, Numpy, MatplotLib
 8. Google Colab for GPU support
 
-
+### To Run
+-> Clone the repo
+```
+git clone https://github.com/KKhushhalR2405/Content_Modearation_API.git
+```
+-> 
 
